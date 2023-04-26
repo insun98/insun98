@@ -1,6 +1,6 @@
 
-![welcome to my work space!](https://user-images.githubusercontent.com/70529293/234525262-af3273f3-d9f1-40b2-9032-542d3d905923.gif)
 
+### Hi, I' am Insun!😄 
 
 <!--
 **insun98/insun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
