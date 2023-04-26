@@ -1,5 +1,7 @@
 ### Hi I am Insun. Welcome to my workspace!
 
+![welcome to my work space!](https://user-images.githubusercontent.com/70529293/234525262-af3273f3-d9f1-40b2-9032-542d3d905923.gif)
+
 
 <!--
 **insun98/insun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[welcome to my work space!](https://user-images.githubusercontent.com/70529293/234525086-0a6b0563-c80c-4f4f-b22d-dc154603c789.gif)
