@@ -1,10 +1,6 @@
 # Hi I am Insun. Welcome to my workspace!
 
 
-### My Interests 
-* Human-Computer Interaction
-* Human-AI Interaction
-
 <!--
 **insun98/insun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
